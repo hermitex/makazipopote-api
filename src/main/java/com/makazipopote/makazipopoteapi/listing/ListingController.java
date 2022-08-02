@@ -8,7 +8,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api/v1/")
-//@CrossOrigin(origins = "https://makaziproperties.herokuapp.com")
+@CrossOrigin(origins = "https://makaziproperties.herokuapp.com")
 public class ListingController {
     private final ListingService listingService;
 
