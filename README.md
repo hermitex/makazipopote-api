@@ -1,6 +1,5 @@
 # makazipopote-api
 
-# makazi-properties-api
 This a real estate API. It is part of makaziproperties web appliaction
 
 ## Endpoints Sumamary
